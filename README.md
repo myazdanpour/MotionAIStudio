@@ -158,7 +158,7 @@ Replace `YOUR_USERNAME` and `YOUR_REPOSITORY` with the owner and repository name
 
 ```bash
 cd ~
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git motionai-studio
+git clone https://github.com/myazdanpour/MotionAIStudio.git motionai-studio
 cd ~/motionai-studio
 ```
 
